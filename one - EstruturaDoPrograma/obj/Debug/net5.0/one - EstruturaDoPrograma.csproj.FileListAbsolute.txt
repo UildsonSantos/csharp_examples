@@ -1,0 +1,16 @@
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/one - EstruturaDoPrograma/bin/Debug/net5.0/one - EstruturaDoPrograma
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/one - EstruturaDoPrograma/bin/Debug/net5.0/one - EstruturaDoPrograma.deps.json
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/one - EstruturaDoPrograma/bin/Debug/net5.0/one - EstruturaDoPrograma.runtimeconfig.json
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/one - EstruturaDoPrograma/bin/Debug/net5.0/one - EstruturaDoPrograma.runtimeconfig.dev.json
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/one - EstruturaDoPrograma/bin/Debug/net5.0/one - EstruturaDoPrograma.dll
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/one - EstruturaDoPrograma/bin/Debug/net5.0/ref/one - EstruturaDoPrograma.dll
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/one - EstruturaDoPrograma/bin/Debug/net5.0/one - EstruturaDoPrograma.pdb
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/one - EstruturaDoPrograma/obj/Debug/net5.0/one - EstruturaDoPrograma.csprojAssemblyReference.cache
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/one - EstruturaDoPrograma/obj/Debug/net5.0/one - EstruturaDoPrograma.GeneratedMSBuildEditorConfig.editorconfig
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/one - EstruturaDoPrograma/obj/Debug/net5.0/one - EstruturaDoPrograma.AssemblyInfoInputs.cache
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/one - EstruturaDoPrograma/obj/Debug/net5.0/one - EstruturaDoPrograma.AssemblyInfo.cs
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/one - EstruturaDoPrograma/obj/Debug/net5.0/one - EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/one - EstruturaDoPrograma/obj/Debug/net5.0/one - EstruturaDoPrograma.dll
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/one - EstruturaDoPrograma/obj/Debug/net5.0/ref/one - EstruturaDoPrograma.dll
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/one - EstruturaDoPrograma/obj/Debug/net5.0/one - EstruturaDoPrograma.pdb
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/one - EstruturaDoPrograma/obj/Debug/net5.0/one - EstruturaDoPrograma.genruntimeconfig.cache
