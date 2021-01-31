@@ -1,0 +1,16 @@
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/two - Instrucoes/bin/Debug/net5.0/two - Instrucoes
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/two - Instrucoes/bin/Debug/net5.0/two - Instrucoes.deps.json
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/two - Instrucoes/bin/Debug/net5.0/two - Instrucoes.runtimeconfig.json
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/two - Instrucoes/bin/Debug/net5.0/two - Instrucoes.runtimeconfig.dev.json
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/two - Instrucoes/bin/Debug/net5.0/two - Instrucoes.dll
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/two - Instrucoes/bin/Debug/net5.0/ref/two - Instrucoes.dll
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/two - Instrucoes/bin/Debug/net5.0/two - Instrucoes.pdb
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/two - Instrucoes/obj/Debug/net5.0/two - Instrucoes.csprojAssemblyReference.cache
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/two - Instrucoes/obj/Debug/net5.0/two - Instrucoes.GeneratedMSBuildEditorConfig.editorconfig
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/two - Instrucoes/obj/Debug/net5.0/two - Instrucoes.AssemblyInfoInputs.cache
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/two - Instrucoes/obj/Debug/net5.0/two - Instrucoes.AssemblyInfo.cs
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/two - Instrucoes/obj/Debug/net5.0/two - Instrucoes.csproj.CoreCompileInputs.cache
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/two - Instrucoes/obj/Debug/net5.0/two - Instrucoes.dll
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/two - Instrucoes/obj/Debug/net5.0/ref/two - Instrucoes.dll
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/two - Instrucoes/obj/Debug/net5.0/two - Instrucoes.pdb
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/two - Instrucoes/obj/Debug/net5.0/two - Instrucoes.genruntimeconfig.cache
