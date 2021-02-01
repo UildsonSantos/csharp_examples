@@ -1,0 +1,16 @@
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/Revisao/bin/Debug/net5.0/Revisao
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/Revisao/bin/Debug/net5.0/Revisao.deps.json
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/Revisao/bin/Debug/net5.0/Revisao.runtimeconfig.json
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/Revisao/bin/Debug/net5.0/Revisao.runtimeconfig.dev.json
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/Revisao/bin/Debug/net5.0/Revisao.dll
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/Revisao/bin/Debug/net5.0/ref/Revisao.dll
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/Revisao/bin/Debug/net5.0/Revisao.pdb
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/Revisao/obj/Debug/net5.0/Revisao.csprojAssemblyReference.cache
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/Revisao/obj/Debug/net5.0/Revisao.GeneratedMSBuildEditorConfig.editorconfig
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/Revisao/obj/Debug/net5.0/Revisao.AssemblyInfoInputs.cache
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/Revisao/obj/Debug/net5.0/Revisao.AssemblyInfo.cs
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/Revisao/obj/Debug/net5.0/Revisao.csproj.CoreCompileInputs.cache
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/Revisao/obj/Debug/net5.0/Revisao.dll
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/Revisao/obj/Debug/net5.0/ref/Revisao.dll
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/Revisao/obj/Debug/net5.0/Revisao.pdb
+/home/dollars/Downloads/BOOTCAMP GFT 25-01-2021/Primeiros passos com .NET + C#/csharp_examples/Revisao/obj/Debug/net5.0/Revisao.genruntimeconfig.cache
